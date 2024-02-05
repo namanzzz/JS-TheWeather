@@ -1,4 +1,4 @@
-const apikey = "5504d620db9211c798e61b807f51c43a"
+const apikey = "YOUR_API_KEY"
 const weatherDataEl = document.getElementById('weather-data')
 const cityInputEl = document.getElementById('city-input')
 
